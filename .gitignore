@@ -1,0 +1,7 @@
+output/
+poster_source/
+screenshots/
+__pycache__/
+.DS_Store
+*.pyc
+make_qr_poster.py
